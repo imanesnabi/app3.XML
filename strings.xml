@@ -1,0 +1,8 @@
+<resources>
+    <string name="text1">selectionner une categorie</string>
+    <string name="text2">Fruit</string>
+    <string name="text3">Legume</string>
+    <string name="text4">Viandes</string>
+    <string name="text5">ajouter</string>
+    <string name="text6">annuler</string>
+</resources>
